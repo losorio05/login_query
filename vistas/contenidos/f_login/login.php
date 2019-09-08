@@ -24,7 +24,8 @@
               <div class="clearfix"></div>
               <div>
                 <h1><i class="fa fa-paw"></i> <?php echo COMPANY;?></h1>
-                <p>©<?php echo date("Y");?> Todos los derechos reservados. PTY Solution.</p>
+                <p>©<?php echo date("Y");?> Todos los derechos reservados.</p>
+                <p>Powered by PTY Solution.</p>
               </div>
             </div>
           </form>
